@@ -1,5 +1,10 @@
-# 💫 About Me:
-I am an aspiring application developer fresh off college with a year of internship experience in the field. <br>I am currently interested in translating pain points into fast, robust, and scalable technical solutions with AI integration. <br>I am currently working on two projects, a landing page with a small admin panel for blog post CRUD <br>and an AI-powered React Native app that can give task prioritization recommendations for overwhelmed users.
+# 💫 About Me  
+Application developer and recent Computer Science graduate with 1 year of internship experience.  
+I focus on building **practical, scalable applications** and integrating **AI where it adds real value**, especially for productivity and user experience.
+
+# 🚀 What I'm Up To  
+- Building a **marketing landing page and admin panel** using **Astro** with **Sanity CMS** for blog content management  
+- Developing an **AI-powered React Native mobile app** with **FastAPI** as the backend, **Supabase** as the database, and **OpenAI** for task-prioritization recommendations
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@aldrich.reinhart) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aldrich-reinhart-wahyudi-aa333a268) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@aldrich2226) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aldrich.reinhart@gmail.com) 
